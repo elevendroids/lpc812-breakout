@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "LPC812 Breakout Board"
-Date "2020-09-15"
+Date "2020-10-09"
 Rev "A"
 Comp ""
 Comment1 "Universal breakout board for LPC812 MCUs"

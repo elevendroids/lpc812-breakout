@@ -227,9 +227,9 @@ NoConn ~ 2000 4100
 NoConn ~ 2000 4200
 Text Label 2500 3700 2    50   ~ 0
 ~RESET
-Text Label 2500 3900 2    50   ~ 0
-P2_SWDIO
 Text Label 2500 4000 2    50   ~ 0
+P2_SWDIO
+Text Label 2500 3900 2    50   ~ 0
 P3_SWCLK
 $Comp
 L power:GND #PWR0107
